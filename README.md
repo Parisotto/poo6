@@ -4,7 +4,7 @@ Crie um projeto de aplicação WEB de um QUIZ com as seguintes funcionalidades:
 - Um controle de acesso por sessão
 
 - Uma página inicial com formulário de acesso (login), dados sobre o WebApp e sobre a equipe, além de um comando para realização do teste
--- Os usuários novos precisarão de um comando que permita o auto-registro
+- - Os usuários novos precisarão de um comando que permita o auto-registro
 - - Uma página pública que apresente o ranking das 10 maiores notas, mostrando nota, usuário e data/hora
 - - Uma área restrita a usuários autenticados contendo:
 - - Uma página que apresente o teste a ser respondido pelo usuário
