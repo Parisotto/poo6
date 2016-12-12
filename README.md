@@ -24,6 +24,7 @@ https://goo.gl/forms/5FLBD95SkQx2DgRY2
 # Grupo:
 - Edson Luiz Parisotto
 - Fabrício Santos Guimarães
+- Luis Henrique França
 - Marcelo Freitas
-- Marta Jorge Lima
+- Marta Barbosa Santos
 - Rafael Santana
